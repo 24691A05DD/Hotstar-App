@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon">
 
     <!-- ------------------ Title ------------------ -->
-    <title>Disney+ Hotstar - Watch TV Shows Online</title>
+    <title>Disney+ Hotstar - Watch TV Shows Online - RENUSRI</title>
 
     <!-- ------------------ Style Sheet ------------------ -->
     <link rel="stylesheet" href="./assets/css/style.css">
@@ -32,7 +32,7 @@
         <div class="right-container">
             <input type="text" class="search-box" placeholder="search">
             <button class="sub-btn">Subscribe</button>
-            <a href="#" class="login-link">login</a>
+            <a href="#" class="login-link">Sign in</a>
         </div>
     </nav>
 
